@@ -9,3 +9,9 @@ Commands
 Showcase
 
 https://streamable.com/j2ifrm
+
+
+# HUSK
+
+Tilføj til server.cfg
+add_ace group.admin administrator allow
