@@ -1,0 +1,1 @@
+# fivem-event-script
